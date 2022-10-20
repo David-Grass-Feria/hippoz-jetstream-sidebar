@@ -1,7 +1,5 @@
 # HippozJetstreamSidebar
-<p align="center">
 
-<a href="https://packagist.org/packages/hippoz/hippoz-jetstream-sidebar"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 
 </p>
 
