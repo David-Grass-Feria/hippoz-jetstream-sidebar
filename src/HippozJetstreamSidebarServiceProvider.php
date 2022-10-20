@@ -60,7 +60,7 @@ class HippozJetstreamSidebarServiceProvider extends ServiceProvider
         $this->publishes([
           
             __DIR__.'/../stubs/resources/views/layouts' => base_path('resources/views/layouts'),
-            
+            __DIR__.'/../stubs/resources/views/navigation' => base_path('resources/views'),
            
         ], 'hippoz-jetstream-sidebar');
 
