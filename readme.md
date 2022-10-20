@@ -12,11 +12,12 @@ Via Composer
 ``` bash
 composer require hippoz/hippoz-jetstream-sidebar
 ```
-
+This replace the layouts file in resources/views/layouts/app.blade.php
 ``` bash
 php artisan vendor:publish --tag=hippoz-jetstream-sidebar --force
 ```
 
+This publish the sidebar-link component in your vendor folder.
 ``` bash
 php artisan vendor:publish --tag=hippoz-jetstream-sidebar-components
 ```
