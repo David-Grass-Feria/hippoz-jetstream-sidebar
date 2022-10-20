@@ -46,12 +46,7 @@
             <nav class="space-y-1 px-2">
             
              
-              <x-hippoz-jetstream-sidebar::sidebar-link href="{{ route('dashboard') }}" :active="request()->routeIs('dashboard')">
-                <x-slot name="icon">
-                 M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25
-             </x-slot>
-                Dashboard
-             </x-hippoz-jetstream-sidebar::sidebar-link>
+              <x-hippoz-jetstream-sidebar::sidebar-menu />
        
             
             </nav>
@@ -74,12 +69,7 @@
         <div class="flex flex-1 flex-col overflow-y-auto">
           <nav class="flex-1 space-y-1 px-2 py-4">
          
-           <x-hippoz-jetstream-sidebar::sidebar-link href="{{ route('dashboard') }}" :active="request()->routeIs('dashboard')">
-           <x-slot name="icon">
-            M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25
-        </x-slot>
-           Dashboard
-        </x-hippoz-jetstream-sidebar::sidebar-link>
+            <x-hippoz-jetstream-sidebar::sidebar-menu />
   
       
           
