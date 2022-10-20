@@ -14,28 +14,17 @@ $ composer require hippoz/hippoz-jetstream-sidebar
 ```
 
 ## Usage
+This package should be used immediately after installing Laravel with Jetstream.
 
 ## Change log
 
 Please see the [changelog](changelog.md) for more information on what has changed recently.
 
-## Testing
 
-``` bash
-$ composer test
-```
-
-## Contributing
-
-Please see [contributing.md](contributing.md) for details and a todolist.
-
-## Security
-
-If you discover any security related issues, please email author@email.com instead of using the issue tracker.
 
 ## Credits
 
-- [Author Name][link-author]
+- [David Grass Feria][link-author]
 - [All Contributors][link-contributors]
 
 ## License
