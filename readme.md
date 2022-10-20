@@ -1,6 +1,6 @@
 # HippozJetstreamSidebar
 
-![alt text](https://jetstream.laravel.com/assets/img/preview-2.ed0e03eb.png)
+![alt text](https://ibb.co/P5PpdYZ)
 
 </p>
 
