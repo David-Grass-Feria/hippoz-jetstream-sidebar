@@ -24,7 +24,7 @@ Please see the [changelog](changelog.md) for more information on what has change
 
 ## Credits
 
-- [David Grass Feria]
+- David Grass Feria
 
 
 ## License
