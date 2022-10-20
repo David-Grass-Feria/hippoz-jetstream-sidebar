@@ -10,8 +10,10 @@ This is where your description should go. Take a look at [contributing.md](contr
 Via Composer
 
 ``` bash
-$ composer require hippoz/hippoz-jetstream-sidebar
+composer require hippoz/hippoz-jetstream-sidebar
 ```
+
+
 
 ## Usage
 This package should be used immediately after installing Laravel with Jetstream.
