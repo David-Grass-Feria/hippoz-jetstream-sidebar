@@ -1,5 +1,6 @@
 # HippozJetstreamSidebar
 
+![alt text](https://jetstream.laravel.com/assets/img/preview-2.ed0e03eb.png)
 
 </p>
 
