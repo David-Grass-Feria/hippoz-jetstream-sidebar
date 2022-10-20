@@ -13,6 +13,14 @@ Via Composer
 composer require hippoz/hippoz-jetstream-sidebar
 ```
 
+``` bash
+php artisan vendor:publish --tag=hippoz-jetstream-sidebar --force
+```
+
+``` bash
+php artisan vendor:publish --tag=hippoz-jetstream-sidebar-components
+```
+
 
 
 ## Usage
