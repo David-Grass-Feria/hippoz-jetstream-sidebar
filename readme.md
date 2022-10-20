@@ -1,6 +1,6 @@
 # HippozJetstreamSidebar
 
-![alt text](https://ibb.co/P5PpdYZ)
+![alt text](https://i.ibb.co/fCyRsSY/hippoz-jetstream-sidebar.jpg)
 
 </p>
 
