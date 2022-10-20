@@ -26,10 +26,6 @@ php artisan vendor:publish --tag=hippoz-jetstream-sidebar-components
 ## Usage
 This package should be used immediately after installing Laravel with Jetstream.
 
-## Change log
-
-Please see the [changelog](changelog.md) for more information on what has changed recently.
-
 
 
 ## Credits
